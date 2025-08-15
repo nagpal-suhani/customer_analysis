@@ -1,6 +1,6 @@
 # Customer Segmentation with KMeans
 
-This project analyzes customer purchasing behavior using KMeans clustering on the Online Retail II dataset. The analysis segments customers into actionable groups based on Recency, Frequency, and Monetary value (RFM), enabling data-driven marketing and retention strategies.
+This project analyzes customer purchasing behavior using KMeans clustering on a retail dataset. The analysis segments customers into actionable groups based on Recency, Frequency, and Monetary value (RFM), enabling data-driven marketing and retention strategies.
 
 ## Features
 
